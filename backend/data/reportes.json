@@ -1,0 +1,11 @@
+{
+    "total_sales": 3314,
+    "total_customers": 111,
+    "report_date": "2025-11-05",
+    "total_revenue": 50000,
+    "average_order_value": 35.5,
+    "highest_sale": 450,
+    "lowest_sale": 25,
+    "total_orders": 95,
+    "most_purchased_product": "Producto A"
+}
